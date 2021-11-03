@@ -9,7 +9,7 @@ Brief overview of the rules can be found on https://ultimate-t3.herokuapp.com/
 # Collaborators
 Worked with Keiry Gao in Period 8 APCS Ms. Qiu
 
-His GitHub : https://github.com/chillerkiri
+His GitHub - https://github.com/chillerkiri
 
 # Important
 
